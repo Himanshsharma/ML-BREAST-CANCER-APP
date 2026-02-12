@@ -93,6 +93,7 @@ The application is deployed using **Streamlit Community Cloud**.
 ---
 
 ## Project Structure  
+```
 ML-Assignment-2/
 │-- app.py
 │-- requirements.txt
@@ -107,6 +108,7 @@ ML-Assignment-2/
 │ │-- scaler.pkl
 │-- ML-Assignement-2.ipynb
 |--test_file.csv
+```
 
 ---
 
